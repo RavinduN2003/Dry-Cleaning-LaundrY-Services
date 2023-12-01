@@ -1,0 +1,59 @@
+Project Group ID : Gr02
+Batch No : Y1S2/23/MTR/Gr02
+Topic : Online Dry Cleaning and Laundry Service
+Project Link: https://mysliit-my.sharepoint.com/:f:/g/personal/it22253958_my_sliit_lk/Esj491tQIftHmr72P6t5pfEB8O-12CxItDtmX2wOly3JWw?e=GACfvF
+
+Group Member Details :
+
+
+
+No             ItNumber                  Name                         Email                                        Implemented Function
+
+1	IT22253958	W.P.R. Nethmina         IT22253958@my.sliit.lk               website/signup.php
+								    website/login.php
+								    website/signup.css
+							                    website/loginpagecss.css
+								    website/include/dbh.inc.php
+								    website/include/functions.inc.php
+								    website/include/login.inc.php
+							                    website/include/signup.inc.php
+
+								    CRUD - sign up
+
+2	IT22296078	Sarithmal K.D	   IT22296078@my.sliit.lk	website/index.css
+								website/index.php
+								website/contactus.css
+								website/contact.php
+								
+								CRUD - contactus	
+
+3	IT22226532	D.V.D Hashan	   IT22226532@my.sliit.lk	website/ourservices.css
+								website/uourservices.php
+								website/userprofile.css
+								website/userprofile.php
+								
+								
+
+
+4	IT22635952	Abeywickrama A.S.     IT22635952@my.sliit.lk	website/homedelivery.css
+								website/homedelivery.php
+								website/outlet.css
+								website/outlet.php
+								
+								
+
+
+
+5	IT22244352	Hewahalpage               IT22244352@my.sliit.lk	website/admin.css
+								website/admin.php
+								website/aboutus.css
+								website/aboutus.php
+								
+								
+
+6	IT22371522	G.H.P Iroshan              IT22371522@my.sliit.lk	website/ppolicy.css
+								website/privacypolicy.php
+								website/termsandconditions.css
+								website/termsandconditions.php
+								
+								

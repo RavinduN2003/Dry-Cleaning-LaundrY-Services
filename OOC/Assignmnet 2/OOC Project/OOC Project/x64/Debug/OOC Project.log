@@ -1,0 +1,21 @@
+﻿  Administrator.cpp
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\DryCleaner.h(8,27): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Manager.h(10,24): error C2504: 'RegisteredUser': base class undefined
+  DryCleaner.cpp
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Administrator.h(9,30): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Manager.h(10,24): error C2504: 'RegisteredUser': base class undefined
+  Manager.cpp
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Administrator.h(9,30): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\DryCleaner.h(8,27): error C2504: 'RegisteredUser': base class undefined
+  OOC Project.cpp
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Administrator.h(9,30): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\DryCleaner.h(8,27): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Manager.h(10,24): error C2504: 'RegisteredUser': base class undefined
+  Order.cpp
+  RegisteredUser.cpp
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Administrator.h(9,30): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\DryCleaner.h(8,27): error C2504: 'RegisteredUser': base class undefined
+C:\Users\Ravindu Nethmina\Desktop\OOC Project\OOC Project\Manager.h(10,24): error C2504: 'RegisteredUser': base class undefined
+  Report.cpp
+  Service.cpp
+  Generating Code...

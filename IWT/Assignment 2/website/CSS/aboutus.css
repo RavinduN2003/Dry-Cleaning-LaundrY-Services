@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+/*Header*/
+header {
+    background-color: #0055aa;
+    color: white;
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+    .navbar li {
+        font-size: 16px;
+    }
+
+    .navbar a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .navbar li a:hover {
+        background-color: #555;
+        color: white;
+    }
+
+.profile img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lobster',cursive;
+}
+
+.wrapper {
+    width: 100%;
+    min-height: 100h;
+    overflow: hidden;
+    background-color: #ddd;
+}
+
+.rpw {
+    width: 100%;
+    padding: 50px 100px;
+}
+
+.image-section {
+    width: 30%;
+    float: left;
+}
+
+    .image-section img {
+        width: 100%;
+        height: auto;
+    }
+
+.content {
+    width: 60%;
+    float: left;
+    margin-left: 50px;
+}
+
+    .content h1 {
+        font size:90px;
+        letter-spacing: 3.5px;
+        margin-top: 25px;
+        color: #222;
+    }
+
+    .content p {
+        font-size: 20px;
+        font-family: serif;
+        margin-top: 10px;
+        line-height: 1.5;
+    }
+
+    .content h2 {
+        font size:90px;
+        letter-spacing: 3.5px;
+        margin-top: 25px;
+        color: #222;
+    }
+
+    .content p {
+        font-size: 20px;
+        font-family: serif;
+        margin-top: 10px;
+        line-height: 1.5;
+        /*Footer*/
+        footer {
+    background-color: #0055aa;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.social-media a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+    .social-media a:hover {
+        text-decoration: underline;
+    }
+
+.footer-links {
+    display: inline-block;
+}
+
+
+    .footer-links a {
+        color: white;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+    .footer-links span {
+        margin: 0 5px
+    }

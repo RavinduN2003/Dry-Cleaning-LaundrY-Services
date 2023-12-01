@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2; /*white color*/
+    font-family: Arial, sans-serif;
+    height: 100vh; /* Make the body take the full viewport height */
+}
+/*Header*/
+
+header {
+    background-color: #0055aa;
+    color: white;
+    padding: 10px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.navbar {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+    .navbar li {
+        font-size: 16px;
+    }
+
+    .navbar a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .navbar li a:hover {
+        background-color: #555;
+        color: white;
+    }
+
+.profile img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+
+/*Login form*/
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 300px; /*the width */
+    display: flex; /* Center the login form vertically and horizontally */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    margin: auto;
+    margin-right:50px;
+    margin-bottom:20px;
+}
+/*Horizontal Offset: 0px (no horizontal offset)
+Vertical Offset: 0px (no vertical offset)
+Blur Radius: 10px
+Shadow Color: rgba(0, 0, 0, 0.1), which is a semi-transparent black color*/
+
+.login-form {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+#forget {
+    text-align: right;
+    font-size: 80%;
+}
+
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 12px 20px;
+    border-radius: 70px;
+    width: 80%;
+    border-color: black;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#p1 {
+    font-size: 80%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+#a1 {
+    font-size: 80%;
+}
+
+
+
+/*Footer*/
+footer {
+    background-color: #0055aa;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.social-media a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+    .social-media a:hover {
+        text-decoration: underline;
+    }
+
+.footer-links {
+    display: inline-block;
+}
+
+
+    .footer-links a {
+        color: white;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+
+    .footer-links span {
+        margin: 0 5px
+    }
+
+span {
+    margin: 0 10px;
+}
